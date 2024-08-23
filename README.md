@@ -27,8 +27,8 @@ To get started with this project, clone the repository and install the required 
 
 pip install -r requirements.txt
 
-## usage
-# Running the Jupyter Notebook
+## Usage
+Running the Jupyter Notebook
 The project includes a Jupyter Notebook (Health Insurance Claim Prediction.ipynb) that contains the data preprocessing, model training, and evaluation steps.
 
 ## Model Deployment
