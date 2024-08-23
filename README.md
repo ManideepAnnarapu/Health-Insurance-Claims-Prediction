@@ -31,3 +31,9 @@ To get started with this project, clone the repository and install the required 
 git clone https://github.com/yourusername/health-insurance-claim-prediction.git
 cd health-insurance-claim-prediction
 pip install -r requirements.txt
+git clone https://github.com/yourusername/health-insurance-claim-prediction.git
+cd health-insurance-claim-prediction
+pip install -r requirements.txt
+
+# Installation complete. You can now run the application.
+
