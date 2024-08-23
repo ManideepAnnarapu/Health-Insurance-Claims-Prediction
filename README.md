@@ -35,5 +35,5 @@ The project includes a Jupyter Notebook (Health Insurance Claim Prediction.ipynb
 The model can be deployed using Flask, which provides a simple web interface for making predictions.
 
 ## Making Predictions
-Once the Flask server is running, you can navigate to http://127.0.0.1:5000/ in your web browser to use the web interface. Enter the required input parameters and click "Predict" to see the model's output.
+Once the Flask server is running, you can navigate to [http://127.0.0.1:5000/](http://127.0.0.1:8080) in your web browser to use the web interface. Enter the required input parameters and click "Predict" to see the model's output.
 
