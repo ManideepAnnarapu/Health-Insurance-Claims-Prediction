@@ -27,8 +27,9 @@ To get started with this project, clone the repository and install the required 
 git clone https://github.com/yourusername/health-insurance-claim-prediction.git
 cd health-insurance-claim-prediction
 pip install -r requirements.txt
+'''bash
 
-Usage
+## Usage
 Running the Jupyter Notebook
 The project includes a Jupyter Notebook (Health Insurance Claim Prediction.ipynb) that contains the data preprocessing, model training, and evaluation steps.
 
