@@ -10,8 +10,6 @@ This repository contains code and resources for building a predictive model for 
 - [Usage](#usage)
 - [Model Deployment](#model-deployment)
 - [Making Predictions](#making-predictions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -27,13 +25,15 @@ The **Health Insurance Claim Prediction** project aims to predict the likelihood
 
 To get started with this project, clone the repository and install the required dependencies.
 
-```bash
-git clone https://github.com/yourusername/health-insurance-claim-prediction.git
-cd health-insurance-claim-prediction
-pip install -r requirements.txt
-git clone https://github.com/yourusername/health-insurance-claim-prediction.git
-cd health-insurance-claim-prediction
 pip install -r requirements.txt
 
-# Installation complete. You can now run the application.
+## usage
+# Running the Jupyter Notebook
+The project includes a Jupyter Notebook (Health Insurance Claim Prediction.ipynb) that contains the data preprocessing, model training, and evaluation steps.
+
+## Model Deployment
+The model can be deployed using Flask, which provides a simple web interface for making predictions.
+
+## Making Predictions
+Once the Flask server is running, you can navigate to http://127.0.0.1:5000/ in your web browser to use the web interface. Enter the required input parameters and click "Predict" to see the model's output.
 
